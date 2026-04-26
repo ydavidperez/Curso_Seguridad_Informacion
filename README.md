@@ -37,10 +37,8 @@ proyecto-final/
 │   └── modulo6_seguridad_web.md
 ├── modulo7/
 │   └── modulo7_redes.md
-├── modulo8/
-│   └── modulo8_malware.md
-├── modulo9/
-│   └── modulo9_seguridad.md
+├── [modulo8](Curso_Seguridad_Informacion/modulo8/Módulo8:TécnicasdePost-Explotación.md)
+├── [modulo9](Curso_Seguridad_Informacionmodulo9_seguridad.md)
 ├── modulo10/
 │   └── modulo10_criptografia.md
 
