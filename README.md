@@ -23,7 +23,28 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 ---
 
 ## 📂 Contenido del Proyecto
-https://github.com/ydavidperez/Curso_Seguridad_Informacion/blob/main/modulo1/M%C3%B3dulo%201%3A%20Introducci%C3%B3n%20al%20Ethical%20Hacking
+proyecto-final/
+├── README.md
+├── modulo1/
+│   └── modulo1_introduccion.md
+├── modulo2/
+│   └── modulo2_reconocimiento.md
+├── modulo3/
+│   └── modulo3_enumeracion.md
+├── modulo4/
+│   └── modulo4_explotacion.md
+├── modulo5/
+│   └── modulo5_vulnerabilidades.md
+├── modulo6/
+│   └── modulo6_seguridad_web.md
+├── modulo7/
+│   └── modulo7_redes.md
+├── modulo8/
+│   └── modulo8_malware.md
+├── modulo9/
+│   └── modulo9_seguridad.md
+├── modulo10/
+│   └── modulo10_criptografia.md
 
 
 ---
