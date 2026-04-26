@@ -27,7 +27,7 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 
 ## 📂 Contenido del Proyecto
 
-- 🔹[modulo1](./Curso_Seguridad_Informacion/modulo1:Introducciónal_Ethical_Hacking.md)
+- 🔹[modulo1](./Curso_Seguridad_Informacion/modulo1/modulo1:Introducciónal_Ethical_Hacking.md)
 - 🔹 [Modulo2](./modulo2/modulo2_reconocimiento.md)
 - 🔹 [Modulo3](./modulo3/modulo3_enumeracion.md)
 - 🔹 [Modulo4](./modulo4/modulo4_explotacion.md)
