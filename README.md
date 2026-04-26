@@ -27,7 +27,16 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 
 ## 📂 Contenido del Proyecto
 
-Módulo 9: Informes y Comunicación.md
+- 🔹 [Módulo 1](./modulo1/modulo1_introduccion.md)
+- 🔹 [Módulo 2](./modulo2/modulo2_reconocimiento.md)
+- 🔹 [Módulo 3](./modulo3/modulo3_enumeracion.md)
+- 🔹 [Módulo 4](./modulo4/modulo4_explotacion.md)
+- 🔹 [Módulo 5](./modulo5/modulo5_vulnerabilidades.md)
+- 🔹 [Módulo 6](./modulo6/modulo6_seguridad_web.md)
+- 🔹 [Módulo 7](./modulo7/modulo7_redes.md)
+- 🔹 [Módulo 8](./modulo8/modulo8_malware.md)
+- 🔹 [Módulo 9](./modulo9/modulo9_seguridad.md)
+- 🔹 [Módulo 10](./modulo10/modulo10_criptografia.md)
 
 ---
 
