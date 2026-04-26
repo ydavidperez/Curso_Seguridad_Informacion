@@ -1,0 +1,77 @@
+# 🔹 Módulo 2: Reconocimiento
+
+## 🧠 Descripción
+El reconocimiento es la primera fase del hacking ético, donde se recopila información sobre el objetivo sin interactuar directamente (pasivo) o con interacción (activo).
+
+---
+
+## 🔑 Conceptos clave
+
+### 🔍 Reconocimiento
+Proceso de recolección de información sobre un sistema, red o usuario.
+
+---
+
+### 🧾 Tipos de reconocimiento
+
+#### 🟢 Reconocimiento pasivo
+- No interactúa directamente con el objetivo  
+- Usa fuentes públicas  
+
+**Ejemplos:**
+- Motores de búsqueda  
+- Redes sociales  
+
+---
+
+#### 🔴 Reconocimiento activo
+- Interacción directa con el objetivo  
+- Puede ser detectado  
+
+**Ejemplos:**
+- Escaneo de red  
+- Consulta de puertos  
+
+---
+
+### 🌐 Información recolectada
+
+- Direcciones IP  
+- Dominios  
+- Subdominios  
+- Tecnologías utilizadas  
+- Correos electrónicos  
+
+---
+
+### 🧰 Herramientas comunes
+
+- Whois  
+- nslookup  
+- theHarvester  
+
+---
+
+### 🕸️ Ingeniería social
+Obtención de información mediante interacción humana.
+
+---
+
+## ⚠️ Importancia
+- Base para fases posteriores  
+- Permite planificar ataques o defensas  
+
+---
+
+## ⚖️ Ética
+
+- Uso solo en entornos autorizados  
+- Respeto a la privacidad  
+
+---
+
+## 📌 Resumen general
+
+- El reconocimiento recopila información del objetivo  
+- Puede ser pasivo o activo  
+- Es clave para el éxito del hacking ético  
