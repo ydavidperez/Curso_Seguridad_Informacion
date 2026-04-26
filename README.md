@@ -29,7 +29,7 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 
 | Módulo | Tema | Enlace |
 |-------|------|--------|
-| 1 | Introducción al Ethical Hacking | [Ver](./modulo1/modulo1_introduccion.md) |
+| 1 | Introducción al Ethical Hacking | [Ver](Módulo 1: Introducción al Ethical Hacking.md) |
 | 2 | Reconocimiento | [Ver](./modulo2/modulo2_reconocimiento.md) |
 | 3 | Enumeración y Escaneo | [Ver](./modulo3/modulo3_enumeracion.md) |
 | 4 | Acceso y Explotación | [Ver](./modulo4/modulo4_explotacion.md) |
