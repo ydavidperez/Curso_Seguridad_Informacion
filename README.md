@@ -25,10 +25,8 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 ## 📂 Contenido del Proyecto
 proyecto-final/
 ├── README.md
-├── modulo1/
-│   └── modulo1_introduccion.md
-├── modulo2/
-│   └── modulo2_reconocimiento.md
+├── [modulo1](./curso_Seguridar/modulo1/modulo1_introduccion.md)
+├── [modulo2](modulo2_reconocimiento.md)
 ├── modulo3/
 │   └── modulo3_enumeracion.md
 ├── modulo4/
