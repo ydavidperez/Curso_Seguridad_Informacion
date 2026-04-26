@@ -23,7 +23,7 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 ---
 
 ## 📂 Contenido del Proyecto
-[Modulo1](./modulo1/Modulo1_Introducción.md)
+[Modulo1](Curso_seguridad_Información/modulo1/Modulo1_Introducción.md)
 
 
 ---
