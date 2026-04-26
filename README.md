@@ -1,9 +1,6 @@
 # 🔐 Ethical Hacking Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/proyecto-final)
-![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto-final)
-![Status](https://img.shields.io/badge/status-Completed-success)
-![License](https://img.shields.io/badge/license-Educational-blue)
+
 
 ---
 
