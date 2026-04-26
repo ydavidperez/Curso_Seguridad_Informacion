@@ -1,0 +1,27 @@
+# 🔹 Módulo 6: Seguridad en Aplicaciones Web
+
+## 🧠 Descripción
+Este módulo aborda las vulnerabilidades más comunes en aplicaciones web, cómo son explotadas por atacantes y las medidas para prevenirlas.
+
+---
+
+## 🔑 Conceptos clave
+
+### 🌐 Aplicaciones web
+Sistemas accesibles desde navegadores que interactúan con servidores.
+
+**Ejemplos:**
+- Formularios de login  
+- Sistemas de registro  
+- APIs  
+
+---
+
+## ⚠️ Vulnerabilidades comunes
+
+### 💥 Inyección SQL (SQL Injection)
+Permite manipular bases de datos mediante entradas no validadas.
+
+**Ejemplo:**
+```sql
+' OR '1'='1
