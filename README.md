@@ -23,7 +23,7 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 ---
 
 ## 📂 Contenido del Proyecto
-[Modulo1](./modulo1/modulo1_introduccion.md)
+[Modulo1](./módulo1/modulo1_introduccion.md)
 ---
 
 ## 🔐 Áreas Cubiertas
