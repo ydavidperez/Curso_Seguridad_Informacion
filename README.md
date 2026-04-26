@@ -25,22 +25,9 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 ## 📂 Contenido del Proyecto
 proyecto-final/
 ├── README.md
-├── [modulo1](./curso_Seguridar/modulo1/modulo1_introduccion.md)
-├── [modulo2](modulo2_reconocimiento.md)
-├── modulo3/
-│   └── modulo3_enumeracion.md
-├── modulo4/
-│   └── modulo4_explotacion.md
-├── modulo5/
-│   └── modulo5_vulnerabilidades.md
-├── modulo6/
-│   └── modulo6_seguridad_web.md
-├── modulo7/
-│   └── modulo7_redes.md
-├── [modulo8](Curso_Seguridad_Informacion/modulo8/Módulo8:TécnicasdePost-Explotación.md)
-├── [modulo9](Curso_Seguridad_Informacionmodulo9_seguridad.md)
-├── modulo10/
-│   └── modulo10_criptografia.md
+├── [modulo1](./curso_Seguridar/modulo1/modulo1_introducción.md)
+├── [modulo2](./modulo2_reconocimiento.md)
+
 
 
 ---
