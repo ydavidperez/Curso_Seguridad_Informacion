@@ -27,13 +27,7 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 
 ## 📂 Contenido del Proyecto
 
-- [Módulo 1](./modulo1/modulo1_introduccion.md)
-- [Módulo 2](./modulo2/modulo2_reconocimiento.md)
-- [Módulo 3](./modulo3/modulo3_enumeracion.md)
-- [Módulo 4](./modulo4/modulo4_explotacion.md)
-- [módulo 5](./modulo5/moldulo5_
-- [Módulo 6](./modulo6/modulo6_seguridad_web.md)
-- [Módulo 10](./modulo10/modulo10_criptografia.md)
+
 
 ---
 
