@@ -1,0 +1,114 @@
+# 🔹 Módulo 10: Criptografía y Seguridad
+
+## 🧠 Descripción
+Este módulo introduce los fundamentos de la criptografía, utilizada para proteger la información mediante técnicas de cifrado, garantizando confidencialidad, integridad y autenticidad.
+
+---
+
+## 🔑 Conceptos clave
+
+### 🔐 Criptografía
+Es el conjunto de técnicas que permiten proteger la información transformándola en un formato seguro.
+
+---
+
+## 🔑 Tipos de criptografía
+
+### 🔹 Criptografía simétrica
+- Usa una sola clave para cifrar y descifrar  
+- Es rápida pero menos segura en transmisión de clave  
+
+**Ejemplos:**
+- AES  
+- DES  
+
+---
+
+### 🔹 Criptografía asimétrica
+- Usa dos claves:
+  - Clave pública  
+  - Clave privada  
+
+**Ventajas:**
+- Mayor seguridad  
+- Permite autenticación  
+
+**Ejemplos:**
+- RSA  
+- ECC  
+
+---
+
+## 🧾 Funciones Hash
+
+Transforman datos en un valor único (hash).
+
+**Características:**
+- Irreversibles  
+- Sensibles a cambios  
+- Garantizan integridad  
+
+**Ejemplos:**
+- SHA-256  
+- MD5 (obsoleto)  
+
+---
+
+## ✍️ Firmas digitales
+Permiten verificar la autenticidad de un mensaje.
+
+**Funcionamiento:**
+- Se firma con clave privada  
+- Se verifica con clave pública  
+
+---
+
+## 🔐 Certificados digitales
+Documentos electrónicos que validan la identidad de una entidad.
+
+**Usos:**
+- HTTPS  
+- Autenticación en redes  
+
+---
+
+## 🛡️ Protocolos seguros
+
+### 🌐 HTTPS
+- Comunicación cifrada entre cliente y servidor  
+
+### 📡 SSL/TLS
+- Protocolos de seguridad para transmisión de datos  
+
+---
+
+## ⚠️ Ataques criptográficos
+
+- Ataque de fuerza bruta  
+- Ataque de diccionario  
+- Man-in-the-Middle (MITM)  
+- Criptoanálisis  
+
+---
+
+## 🧰 Herramientas relacionadas
+- OpenSSL  
+- Hashcat  
+- John the Ripper  
+
+---
+
+## ⚖️ Ética
+- Uso responsable de herramientas criptográficas  
+- Protección de datos  
+- Aplicación en entornos autorizados  
+
+---
+
+## 📌 Resumen general
+
+- La criptografía protege la información  
+- Existen métodos simétricos y asimétricos  
+- Las funciones hash garantizan integridad  
+- Las firmas digitales aseguran autenticidad  
+- Es clave en la seguridad informática moderna  
