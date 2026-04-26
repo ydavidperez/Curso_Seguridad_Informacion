@@ -27,12 +27,12 @@ El objetivo es consolidar el aprendizaje en un formato claro, organizado y acces
 
 ## 📂 Contenido del Proyecto
 
-- 🔹[modulo1](./modulo1/Módulo1:Introducción al Ethical Hacking.md)
-- 🔹 [Módulo2](./modulo2/modulo2_reconocimiento.md)
-- 🔹 [Módulo3](./modulo3/modulo3_enumeracion.md)
-- 🔹 [Módulo4](./modulo4/modulo4_explotacion.md)
-- 🔹 [Módulo5](./modulo5/modulo5_vulnerabilidades.md)
-- 🔹 [Módulo6](./modulo6/modulo6_seguridad_web.md)
+- 🔹[modulo1](./modulo1/Módulo1:Introducciónal_Ethical_Hacking.md)
+- 🔹 [Modulo2](./modulo2/modulo2_reconocimiento.md)
+- 🔹 [Modulo3](./modulo3/modulo3_enumeracion.md)
+- 🔹 [Modulo4](./modulo4/modulo4_explotacion.md)
+- 🔹 [M0dulo5](./modulo5/modulo5_vulnerabilidades.md)
+- 🔹 [Modulo6](./modulo6/modulo6_seguridad_web.md)
 - 🔹 [Módulo7](./modulo7/modulo7_redes.md)
 - 🔹 [Módulo8](./modulo8/modulo8_malware.md)
 - 🔹 [Módulo9](./modulo9/modulo9_seguridad.md)
